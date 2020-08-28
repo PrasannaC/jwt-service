@@ -1,2 +1,2 @@
-#jwt-service
-A basic JWT service written in NodeJS to create and verify tokens.A basic JWT service written in NodeJS to create and verify tokens.
+# jwt-service
+A basic JWT service written in NodeJS to create and verify tokens.
